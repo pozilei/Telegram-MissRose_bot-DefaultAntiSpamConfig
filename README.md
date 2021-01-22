@@ -1,4 +1,4 @@
-# [@MissRose_bot](https://missrose.org/) Default Anti Spam Configuration
+# ```@MissRose_bot``` Default Anti Spam Configuration
 
 #### A basic set of settings for an instance of [@MissRose_bot](https://missrose.org/) Telegram bot in order to prevent spam and flooding attacks.
 
