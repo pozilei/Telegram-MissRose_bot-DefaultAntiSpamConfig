@@ -7,7 +7,7 @@ After inviting ```@RoseBot``` to your channel, make sure to give it admin rights
 
 Find [here](https://missrose.org/guide/) a complete list of commands and documentation.
 
-Download and send the ```RoseBotDefaultAntiSpamConfig.txt``` file to your channel. Reply to the message with the file with ```/import```.
+Download and send the ```RoseBotDefaultAntiSpamConfig.txt``` file to your channel. Reply with ```/import``` to the message containing the file.
 
 Following is a set of pre-configured settings.
 
