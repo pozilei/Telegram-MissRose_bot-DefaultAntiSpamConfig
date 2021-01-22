@@ -20,7 +20,7 @@ Command | Action | Pre-configured value
 ```/joinfed <FedID>``` | Join the current chat to a federation. A chat can only join one federation. | ```15e7f0b0-5614-4fa4-b414-ae7bcd003a5a```*
 ```/captcha <value>```| All users that join will need to solve a CAPTCHA. This proves they aren't a bot! | yes
 ```/captchamode <value>```| Choose which CAPTCHA type to use for your chat. | math
-```/lock <item(s)>``` | Lock one or more items. Now, only admins can use this type! | sticker
+```/lock <item(s)>``` | Lock one or more items. Now, only admins can use this type! | sticker, bot, gif
 ```/reports <value>``` | Enable/disable user reports. | yes
 
 \* pre-set is the ["Admins gegen Rechts"](https://t.me/GegenRechts)-Federation.
