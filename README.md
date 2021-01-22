@@ -11,7 +11,7 @@
 Find [here](https://missrose.org/guide/) a complete list of commands and documentation.
 
 
-Following is a set of pre-configured settings.
+Following is the set of pre-configured settings.
 
 Command | Action | Pre-configured value 
 ------------ | ------------- | -------------
