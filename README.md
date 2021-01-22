@@ -1,11 +1,11 @@
-# [@RoseBot](https://missrose.org/) Default Anti Spam Configuration
+# [@MissRose_bot](https://missrose.org/) Default Anti Spam Configuration
 
-#### A basic set of settings for an instance of [@RoseBot](https://missrose.org/) Telegram bot in order to prevent spam and flooding attacks.
+#### A basic set of settings for an instance of [@MissRose_bot](https://missrose.org/) Telegram bot in order to prevent spam and flooding attacks.
 
 Make sure that your group is a [supergroup](https://telegram.org/blog/supergroups5k), which means, that you have to activate history for new members.
 
-To successfully deploy the bot into your channel, just invite ```@RoseBot``` into your channel.
-After inviting ```@RoseBot``` to your channel, make sure to give it admin rights. At this point and at any point, where new admins are introduced to the channel, run ```/admincache```, to let ```@RoseBot``` know the current list of admins.
+To successfully deploy the bot into your channel, just invite ```@MissRose_bot``` into your channel.
+After inviting ```@MissRose_bot``` to your channel, make sure to give it admin rights. At this point and at any point, where new admins are introduced to the channel, run ```/admincache```, to let ```@MissRose_bot``` know the current list of admins.
 
 Download and send the ```RoseBotDefaultAntiSpamConfig.txt``` file to your channel. Reply with ```/import``` to the message containing the file.
 
