@@ -23,4 +23,4 @@ Command | Action | Pre-configured value
 ```/lock <item(s)>``` | Lock one or more items. Now, only admins can use this type! | sticker, bot, gif
 ```/reports <value>``` | Enable/disable user reports. | yes
 
-\* pre-set is the ["Admins gegen Rechts"](https://t.me/GegenRechts)-Federation.
+\* pre-set is the ["Admins gegen Rechts"](https://t.me/GegenRechts)-Federation. :heart:
