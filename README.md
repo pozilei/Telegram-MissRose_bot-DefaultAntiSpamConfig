@@ -3,16 +3,16 @@
 ### A basic set of settings for an instance of [@MissRose_bot](https://missrose.org/) Telegram bot in order to prevent spam and flooding attacks.
 #### Follow the three steps below to run a pre-configured instance of ```@MissRose_bot``` in your group.
 
-> *  Make sure that your group is a [supergroup](https://telegram.org/blog/supergroups5k), which means, that you have to activate history for new members.
+*  Make sure that your group is a [supergroup](https://telegram.org/blog/supergroups5k), which means, that you have to activate history for new members.
 
-> * To successfully deploy the bot into your channel, invite ```@MissRose_bot``` into your channel. After inviting ```@MissRose_bot``` to your channel, make sure to give it admin rights. **At this point and at any point, where new admins are introduced to the channel, run ```/admincache```, to let ```@MissRose_bot``` know the current list of admins.**
+* To successfully deploy the bot into your channel, invite ```@MissRose_bot``` into your channel. After inviting ```@MissRose_bot``` to your channel, make sure to give it admin rights. **At this point and at any point, where new admins are introduced to the channel, run ```/admincache```, to let ```@MissRose_bot``` know the current list of admins.**
 
-> * Download and send the ```RoseBotDefaultConfig.txt``` file to your channel. Reply with ```/import``` to the message containing the file.
+* Download and send the ```RoseBotDefaultConfig.txt``` file to your channel. Reply with ```/import``` to the message containing the file.
 
 Find [here](https://missrose.org/guide/) a complete list of commands and documentation. You can override any configuration according to your needs and ```/export``` your settings to an extra ```YourConfigFile.txt``` file. 
 
 
-Following is the set of pre-configured settings.
+#### Find below the set of pre-configured settings.  
 
 Command | Action | Pre-configured value 
 ------------ | ------------- | -------------
