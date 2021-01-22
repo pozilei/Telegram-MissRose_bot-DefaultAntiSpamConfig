@@ -19,7 +19,7 @@ Command | Action | Pre-configured value
 ```/setflood <value>``` | Set the number of messages after which to take action on a user. Set to '0', 'off', or 'no' to disable. | 7
 ```/setfloodmode <action type>``` | Choose which action to take on a user who has been flooding. Options: ```ban/kick/mute/tban/tmute``` | tban 2h
 ```/joinfed <FedID>``` | Join the current chat to a federation. A chat can only join one federation. | ```15e7f0b0-5614-4fa4-b414-ae7bcd003a5a```*
-```captcha <value>```| All users that join will need to solve a CAPTCHA. This proves they aren't a bot! | yes
+```/captcha <value>```| All users that join will need to solve a CAPTCHA. This proves they aren't a bot! | yes
 ```/captchamode <value>```| Choose which CAPTCHA type to use for your chat. | math
 ```/lock <item(s)>``` | Lock one or more items. Now, only admins can use this type! | sticker
 ```/reports <value>``` | Enable/disable user reports. | yes
