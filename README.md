@@ -9,6 +9,8 @@
 
 * Download and send the ```RoseBotDefaultConfig.txt``` file to your channel. Reply with ```/import``` to the message containing the file.
 
+Now ```@MissRose_bot``` is configured for your channel with the parameters in the table below.
+
 Find [here](https://missrose.org/guide/) a complete list of commands and documentation. You can override any configuration according to your needs and ```/export``` your settings to an extra ```YourConfigFile.txt``` file. 
 
 
