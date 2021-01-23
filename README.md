@@ -11,11 +11,6 @@
 
 Now ```@MissRose_bot``` is configured for your channel with the parameters in the table below.
 
-Find [here](https://missrose.org/guide/) a complete list of commands and documentation. You can override any configuration according to your needs and ```/export``` your settings to an extra ```YourConfigFile.txt``` file. 
-
-
-#### Find below the set of pre-configured settings.  
-
 Command | Action | Pre-configured value 
 ------------ | ------------- | -------------
 ```/setflood <value>``` | Set the number of messages after which to take action on a user. Set to '0', 'off', or 'no' to disable. | 7
@@ -27,3 +22,5 @@ Command | Action | Pre-configured value
 ```/reports <value>``` | Enable/disable user reports. | yes
 
 \* pre-set is the ["Admins gegen Rechts"](https://t.me/GegenRechts)-Federation. :heart:
+
+Find [here](https://missrose.org/guide/) a complete list of commands and documentation. You can override any configuration according to your needs and ```/export``` your settings to an extra ```YourConfigFile.txt``` file.
