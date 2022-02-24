@@ -1,7 +1,7 @@
 ## ```@MissRose_bot``` Default Anti-Spam/Flood/Alt-Right Configuration
 
 ### A basic set of settings for an instance of [@MissRose_bot](https://missrose.org/) Telegram bot in order to prevent spam and flooding attacks.
-#### :warning: Follow the three steps below to run a pre-configured instance of ```@MissRose_bot``` in your group.
+#### :warning: Follow the three steps below to run a pre-configured instance of ```@MissRose_bot``` in your group. :warning:
 
 *  Make sure that your group is a [supergroup](https://telegram.org/blog/supergroups5k), which means, that you have to activate history for new members.
 
